@@ -1,2 +1,1 @@
-Inline images 1
-Inline images 1
+![alt text](src/ScreenShot.png "Report")
